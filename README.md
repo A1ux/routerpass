@@ -16,4 +16,4 @@ Luego tomar las ips
 
 Luego pasarlo a xargs
 
-<h3>echo "ip1 ip2 ip3" | xargs -n 1 -I IP python router.py IP</h3>
+<h3>echo "ip1 ip2 ip3" | xargs -n 1 -I IP python routerpass.py IP</h3>

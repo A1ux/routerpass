@@ -1,5 +1,3 @@
-# routerpass
-
 <h1>ROUTERPASSS</h1>
 
 Script para poder tomar los datos de un AP especificamente de un operador de fibra optica, con usuarios y pass por defecto

@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+#stdONUi0i
 ##Guardar la ip,nombre,pass en un csv
 
 from ftplib import FTP

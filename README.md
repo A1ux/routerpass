@@ -6,7 +6,7 @@ Yo lo he ejecutado con un
 
 Hice un escaneo con nmap:
 
-<h3>nmap -sP 192.168.1.0/24</h3>
+<h3>nmap -sP 192.168.1.0/24 -oN ips.txt</h3>
 
 Luego tomar las ips
 
